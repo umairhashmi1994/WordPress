@@ -1,0 +1,144 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/charitus
+Data file = E:\xampp\htdocs\Charitus/wp-content/themes/charitus/lib/demo-data/demo-content.xml
+Widget file = E:\xampp\htdocs\Charitus/wp-content/themes/charitus/lib/demo-data/widgets.json
+Customizer file = E:\xampp\htdocs\Charitus/wp-content/themes/charitus/lib/demo-data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - Tags - Imported
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Donation Cause Sidebar : 
+
+Campaign Donation - No Title - Imported
+Donors - Donors - Imported
+campaign_creator_widget - Campaign Creator - Site does not support widget
+Campaign Categories / Tags - Campaign Categories - Imported
+Campaigns - Campaigns - Imported
+Donation Stats - Donation Stats - Imported
+
+Events Sidebar : 
+
+Search - No Title - Imported
+Events List - Upcoming Events - Imported
+
+Footer Widgets : 
+
+Categories - No Title - Imported
+Product Categories - Product categories - Imported
+Campaign Categories / Tags - Campaign Categories - Imported
+Campaign Categories / Tags - Campaign Tags - Imported
+
+WooCommerce Shop : 
+
+Cart - Cart - Imported
+Filter Products by Attribute - Filter by - Imported
+Active Product Filters - Active filters - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products - Products - Imported
+
+WooCommerce Product : 
+
+Product Search - No Title - Imported
+Recent Viewed Products - Recently viewed products - Imported
+Recent Product Reviews - Recent reviews - Imported
+Products by Rating - Top rated products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
